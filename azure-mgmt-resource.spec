@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-resource
 Version  : 9.0.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/f7/27/f4ee7662fa0d5ac043d4e9daff5e8b0299a6a4f57d3b572a30da36e1b0e1/azure-mgmt-resource-9.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/f7/27/f4ee7662fa0d5ac043d4e9daff5e8b0299a6a4f57d3b572a30da36e1b0e1/azure-mgmt-resource-9.0.0.zip
 Summary  : Microsoft Azure Resource Management Client Library for Python
